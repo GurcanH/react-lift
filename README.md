@@ -4,7 +4,20 @@ This app controls the travel of a lift for a 10 storey building.
 
 A passenger can summon the lift to go up or down from any floor. Once in the lift, they can choose the floor they'd like to travel to.
 
-## Running the app
+## Installation
+
+In the project directory, you can run:
+
+### `yarn`
+
+or
+
+### `npm init`
+
+<br/>
+<br/>
+
+### Running the app
 
 In the project directory, you can run:
 
