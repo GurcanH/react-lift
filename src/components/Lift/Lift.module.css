@@ -1,0 +1,43 @@
+.mainDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.elevatorDiv {
+  display: flex;
+  flex: 1;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+
+.logDiv {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.info {
+  margin-right: 10px;
+}
+
+.red {
+  color: red;
+  font-weight: bold;
+}
+
+.navy {
+  color: navy;
+  font-weight: bold;
+}
+.green {
+  color: green;
+  font-weight: bold;
+}
+
+.orange {
+  color: orange;
+  font-weight: bold;
+}

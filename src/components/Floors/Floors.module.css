@@ -1,0 +1,26 @@
+.innerDiv {
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 1px solid black;
+}
+
+.elevatorImg {
+  width: 20%;
+}
+.arrowImg {
+  padding: 1em;
+  width: 10%;
+  cursor: pointer;
+}
+
+.floorText {
+  font-weight: bold;
+  color: navy;
+  width: 50px;
+}
+
+.green {
+  color: green;
+}
